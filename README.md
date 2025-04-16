@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents an interactive Credit Card Fraud Dashboard built using Power BI. The dashboard provides insights into fraudulent transactions based on various parameters such as age group, job category, merchant, time of occurrence, transaction amount, and geographical hotspots.
+This project presents an Interactive Credit Card Fraud Dashboard built using Power BI. The dashboard provides insights into fraudulent transactions based on various parameters such as age group, job category, merchant, time of occurrence, transaction amount, and geographical hotspots.
 
 
 ---
