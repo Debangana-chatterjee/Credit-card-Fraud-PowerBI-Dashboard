@@ -6,8 +6,8 @@ This project presents an Interactive Credit Card Fraud Dashboard built using Pow
 
 
 ---
-## Dataset and Interactive Dashboard link
-📥 [Download the Dataset and Dashboard](https://drive.google.com/drive/folders/1nu5ZM-3XKhu86BhUZqjBR98h_CsPC3qu?usp=drive_link)
+
+📥 [Dataset and Interactive Dashboard link](https://drive.google.com/drive/folders/1nu5ZM-3XKhu86BhUZqjBR98h_CsPC3qu?usp=drive_link)
 
 
 ---
